@@ -161,7 +161,7 @@
   
   .skills__header {
     color: var(--secondary-text-color);
-    text-align: center;
+    text-align: left;
     margin-bottom: 15px;
   }
   
@@ -213,6 +213,15 @@
     color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 10px;
+  }
+  .experiences__educational__project-project {
+    color: var(--primary-text-color);
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .experiences__educational-project-technologies {
+    color: var(--secondary-text-color);
+    padding-left: 20px;
   }
   
   .experiences__company-project-responsibilities {
